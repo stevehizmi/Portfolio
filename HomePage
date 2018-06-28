@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+	<link rel="stylesheet" type="text/css"href="style.css" />
+    <title>Home</title>
+</head>
+<body>
+	<a href="SafenetProblem.html"> Safenet c# problem</a>
+	<a href="FileIO.html"> File IO</a>
+	<a href="Javascript.html"> Javascript</a>
+	<a href="MVCC#.html"> MVC and C#</a>
+	<a href="Overall.html"> Overall reflection</a>
+
+</body>
+</html>
